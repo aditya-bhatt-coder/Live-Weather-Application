@@ -1,7 +1,7 @@
 const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': '3229622dd9msh884ac8c91b2ecb3p14545ejsn73f59400bf3e',
+		'X-RapidAPI-Key': '--hidden--',
 		'X-RapidAPI-Host': 'yahoo-weather5.p.rapidapi.com'
 	}
 };
