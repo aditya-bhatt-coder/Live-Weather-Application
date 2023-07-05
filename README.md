@@ -3,7 +3,7 @@
 
 <center><h1>Live-Weather-App</h1></center>
 An online live weather checking web app, you can check any city live weather at any time.<br>
-The Web App is live at https://aditya-bhatt-coder.github.io/Live-Weather-App/
+The Web App is live at https://aditya-bhatt-coder.github.io/Live-Weather-Application/
 
 <!-- ABOUT THE PROJECT -->
 ## Project ScreenShots
@@ -27,6 +27,6 @@ The Web App is live at https://aditya-bhatt-coder.github.io/Live-Weather-App/
 
 Aditya Bhatt - adithegreat2002@gmail.com
 
-Project Link: (https://github.com/aditya-bhatt-coder/Live-Weather-App)
+Project Link: (https://aditya-bhatt-coder.github.io/Live-Weather-Application/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
